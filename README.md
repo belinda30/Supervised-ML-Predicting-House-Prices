@@ -1,4 +1,4 @@
-# 🏠 House Prices – Regression & Feature Selection
+# 🏠 House Prices – Classification, Regression & Feature Selection
 
 A machine learning project built around the [Kaggle House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) competition. The goal is to predict residential home sale prices using regression models, with a strong focus on preprocessing, feature engineering, and feature selection.
 
